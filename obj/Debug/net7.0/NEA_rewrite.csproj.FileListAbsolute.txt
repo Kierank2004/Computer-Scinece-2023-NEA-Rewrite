@@ -1,0 +1,15 @@
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/bin/Debug/net7.0/NEA_rewrite
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/bin/Debug/net7.0/NEA_rewrite.deps.json
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/bin/Debug/net7.0/NEA_rewrite.runtimeconfig.json
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/bin/Debug/net7.0/NEA_rewrite.dll
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/bin/Debug/net7.0/NEA_rewrite.pdb
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.csproj.AssemblyReference.cache
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.AssemblyInfoInputs.cache
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.AssemblyInfo.cs
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.csproj.CoreCompileInputs.cache
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.dll
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/refint/NEA_rewrite.dll
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.pdb
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/NEA_rewrite.genruntimeconfig.cache
+/Users/kernalkob/Documents/Code/C#/NEA_Rewrite/obj/Debug/net7.0/ref/NEA_rewrite.dll
