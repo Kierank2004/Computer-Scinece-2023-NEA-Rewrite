@@ -428,8 +428,6 @@
             }
         } while (DaysSimulated <= 0 || DaysSimulated >= 40172);
 
-
-        Temp = Console.ReadLine().ToLower();
         do
         {
             System.Console.WriteLine("What would you like to name your file it has to be longer than 4 Characters");
@@ -530,7 +528,7 @@
             Console.WriteLine("Please ammend the file with the Errors Locations above.");
         }
     }
-
+    
     static void Main()
     {
         string Start;
