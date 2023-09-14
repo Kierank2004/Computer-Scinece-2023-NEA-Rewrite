@@ -32,7 +32,6 @@ class Program{
         population = Convert.ToInt32(Console.ReadLine());
         Grid grid = new Grid(height, width, population);
         Cell celly = new Cell("CBAQA", 0, "S", false, 0, 0, 0, 0);
-        System.Console.WriteLine(celly.IndividualState);
         grid.drawGrid();
     }
 }
